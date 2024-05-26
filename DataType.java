@@ -1,5 +1,5 @@
 // the data type in java
-// int ,har ,array,boolean
+// int ,har ,array,boolean,float;
 public class DataType {
     public static void main(String[] args) {
         int a=10;
