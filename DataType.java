@@ -11,8 +11,6 @@ public class DataType {
         System.out.println(c);
         System.out.println(f);
 
-    
-
     }
     
 }
